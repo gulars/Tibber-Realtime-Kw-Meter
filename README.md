@@ -5,6 +5,10 @@ Considering creating this repository to hold content for this JSFiddle:
 
 https://jsfiddle.net/3knc8maf/
 
+Preview:
+
+![Preview](https://github.com/gulars/Tibber-Realtime-Kw-Meter/blob/main/preview.jpg?raw=true)
+
 It is based on an old meter we had in my childhood home.
 
 ![Original meter](https://github.com/gulars/Tibber-Realtime-Kw-Meter/blob/main/originalMeter2.jpg?raw=true)
