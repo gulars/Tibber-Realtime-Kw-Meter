@@ -7,7 +7,7 @@ https://jsfiddle.net/3knc8maf/
 
 It is based on an old meter we had in my childhood home.
 
-![Original meter](https://github.com/gulars/Tibber-Realtime-Kw-Meter/blob/main/originalMeter.jpg?raw=true)
+![Original meter](https://github.com/gulars/Tibber-Realtime-Kw-Meter/blob/main/originalMeter2.jpg?raw=true)
 
 But now it's digital and have some more features. (Under development)
 
