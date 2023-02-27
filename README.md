@@ -3,7 +3,7 @@ Javascript only Tibber Kw meter ui for tibber customers
 
 Considering creating this repository to hold content for this JSFiddle: 
 
-https://jsfiddle.net/3knc8maf/
+[https://jsfiddle.net/3knc8maf/](https://jsfiddle.net/pL4tb63y/1/)
 
 Preview:
 
