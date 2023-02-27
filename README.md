@@ -17,4 +17,8 @@ But now it's digital and have some more features. (Under development)
 
 If you find this intresting, lett me know, and I will consider...
 
+If you want to use this for yourself you will need a tibber API key, get your's here: https://developer.tibber.com/
+
+If you want to be part of Tibber, use this link to get 500 Kr (NOK) credits (I will also get :-)): https://invite.tibber.com/lelqgk4y
+
 Cred to HighCharts and Tibber API
